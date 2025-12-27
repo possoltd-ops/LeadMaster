@@ -1,0 +1,7 @@
+{
+  "name": "Posso Lead Master",
+  "description": "A powerful lead generation and enrichment tool for hospitality sales. It uses Gemini with Google Maps grounding to find businesses and AI to score them for POS suitability.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
